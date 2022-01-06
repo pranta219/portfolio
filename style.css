@@ -26,6 +26,7 @@ span{
 }
 .flexible-container{
     display: flex;
+    padding-bottom: 10px;
 }
 .flexible-container .one{
     background-color: #EDF5F6;
@@ -79,4 +80,6 @@ footer{
     background-color: black;
     text-align: center;
     color: #ffff;
+    font-size: 20px;
+    padding-bottom: 20px;
 }
